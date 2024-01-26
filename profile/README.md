@@ -1,15 +1,9 @@
 
-# Team Biobox 
+# Team Biobox 🐟📦
 
-Hi! We are developing the biobox: a modular, robust and cost-effective solution to freshwater biodiversity data collection.
+Hi! We are a team of biologists, engineers and software devs building the biobox: a modular, robust and cost-effective solution to freshwater biodiversity data collection.
 
-We plan to publish all schematics, code and results publicly so as to raise awareness for freshwater biodiversity and make research more equitable.
-
-
-## 🐟📦 About Us
-Hi! We are a team of engineers, developers and biologists working on building the biobox: a modular, robust and cost-effective solution to freshwater biodiversity data collection.
-
-We plan to publish all schematics, code and results publicly on github to raise awareness for freshwater biodiversity and make research more equitable.
+We plan to publish all schematics, code and results publicly so as to raise awareness for freshwater biodiversity and make research more equitable..
 
 
 ## Authors
