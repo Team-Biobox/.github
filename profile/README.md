@@ -1,10 +1,9 @@
 
 # Team Biobox 🐟📦
 
-Hi! We are a team of biologists, engineers and software devs building the biobox: a modular, robust and cost-effective solution to freshwater biodiversity data collection. We have implemented our Biobox solution in the river Itchen (Winchester, United Kingdom) and would like to make our project publicly available.
+Hi! We are a team of biologists, engineers and software devs building the biobox: a modular, robust and cost-effective solution to freshwater biodiversity data collection. We have implemented our Biobox solution in the River Itchen (Winchester, United Kingdom) and would like to make our project publicly available.
 
-We plan to publish all schematics, code and results publicly so as to raise awareness for freshwater biodiversity in the research community and to allow for users from all around
-the world to have accessible datasets for our data. We are willing to fully fund implementations of our project in new contexts (e.g. different rivers or water bodies)!
+We will publish all schematics, code and results publicly in an effort to actively encourage users from all around the world to implement our idea and save freshwater ecosystems. We are willing to fully fund implementations of our project in new contexts (e.g. different rivers or water bodies)!
 
 ## Format
 
