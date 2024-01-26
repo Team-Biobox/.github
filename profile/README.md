@@ -11,7 +11,9 @@ the world to have accessible datasets for our data. We are willing to fully fund
 ```./arduino``` contains the arduino scripts that we use to collect data from the biobox as well as templates for other forms of data collection.  <br />
 
 ```./organism-classification``` contains template python scripts (built in CLIP and CLIP segment) that allow for the detection and classification of recorded images from the biobox.  <br />
+
 ```./interface``` contains the code that powers our data visualisation interface.  <br />
+
 ```./buildinstructions``` will contain detalied instructions, CAD models and files to show our design process.  <br />
 
 ## Authors
